@@ -1,0 +1,20 @@
+/* .title {
+  font-size: 100px;
+}
+
+@media only screen and (max-width: 600px) {
+  .title {
+    font-size: 50px;
+  }
+} */
+
+body {
+  background-color: #151937;
+  color: #fff;
+}
+
+.text-gradient {
+  background: linear-gradient(to right, blue, red);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
